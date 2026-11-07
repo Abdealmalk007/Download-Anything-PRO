@@ -1,0 +1,7 @@
+<resources>
+    <string name="channel_name">التنزيلات</string>
+    <string name="developer_name">أبو عمر</string>
+    <string name="share_unified_label">Download Anything PRO</string>
+    <string name="share_video_label">تحميل فيديو</string>
+    <string name="share_audio_label">تحميل صوت</string>
+</resources>

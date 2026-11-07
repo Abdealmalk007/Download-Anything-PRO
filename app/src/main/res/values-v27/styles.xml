@@ -1,0 +1,25 @@
+<resources>
+    <style name="Theme.DownloadAnything" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FFC83F</item>
+        <item name="colorSecondary">#FFC83F</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarColor">@color/system_bar_bg</item>
+        <item name="android:statusBarColor">@color/system_bar_bg</item>
+        <item name="android:windowBackground">@color/window_bg</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+    <style name="Theme.DownloadAnything.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/window_bg</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.DownloadAnything</item>
+    </style>
+    <style name="Theme.DownloadAnything.ShareReceiver" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:colorAccent">@color/brand_gold</item>
+    </style>
+</resources>

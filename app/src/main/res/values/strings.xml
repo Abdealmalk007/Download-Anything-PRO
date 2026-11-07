@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Download Anything PRO 6</string>
+    <string name="channel_name">Downloads</string>
+    <string name="developer_name">Abu Omar</string>
+    <string name="developer_email" translatable="false">protech.2025.2026@gmail.com</string>
+    <string name="support_email" translatable="false">protech.2025.2026@gmail.com</string>
+    <string name="publisher_name" translatable="false">ProTech</string>
+    <string name="share_unified_label">Download Anything PRO</string>
+    <string name="share_video_label">Download video</string>
+    <string name="share_audio_label">Download audio</string>
+</resources>

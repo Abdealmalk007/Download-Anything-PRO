@@ -1,0 +1,10 @@
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="launcher_background">#00000000</color>
+    <color name="brand_orange">#FF9D19</color>
+    <color name="brand_pink">#EF476F</color>
+    <color name="brand_gold">#FFC83F</color>
+    <color name="brand_black">#07090B</color>
+    <color name="window_bg">#F7F7F9</color>
+    <color name="system_bar_bg">#F7F7F9</color>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <style name="Theme.ProTech6.DialogLight" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+        <item name="colorPrimary">#2563EB</item>
+        <item name="colorSecondary">#2563EB</item>
+        <item name="android:colorAccent">#2563EB</item>
+    </style>
+    <style name="Theme.ProTech6.DialogDark" parent="Theme.MaterialComponents.Dialog.Alert">
+        <item name="colorPrimary">#3B78FF</item>
+        <item name="colorSecondary">#7151F7</item>
+        <item name="android:colorAccent">#3B78FF</item>
+    </style>
+    <style name="Theme.DownloadAnything" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FFC83F</item>
+        <item name="colorSecondary">#FFC83F</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/system_bar_bg</item>
+        <item name="android:statusBarColor">@color/system_bar_bg</item>
+        <item name="android:windowBackground">@color/window_bg</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+    <style name="Theme.DownloadAnything.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/window_bg</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.DownloadAnything</item>
+    </style>
+    <style name="Theme.DownloadAnything.ShareReceiver" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:colorAccent">@color/brand_gold</item>
+    </style>
+</resources>
