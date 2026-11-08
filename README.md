@@ -27,3 +27,9 @@ License: **MIT for original ProTech-owned code**. Dependencies have their own li
 اقرأ QA_STATUS.md قبل التثبيت، وTHIRD_PARTY_NOTICES.md قبل توزيع
 نسخ تجارية. استخدم التطبيق لتنزيل المحتوى الذي تملك حق الوصول
 إليه وتنزيله، ولا تتوقع تجاوز DRM أو قيود المنصات.
+
+## Official Project Website / Ø§Ù„Ù…ÙˆÙ‚Ø¹ Ø§Ù„Ø±Ø³Ù…ÙŠ
+
+For features, product status and official download information, see [the Alghad Digital product page](https://alghad.digital/programs/download/).
+
+Ø§Ù„ØªÙØ§ØµÙŠÙ„ ÙˆØ±ÙˆØ§Ø¨Ø· Ø§Ù„ØªÙ†Ø²ÙŠÙ„ Ø§Ù„Ø±Ø³Ù…ÙŠØ© Ù…ØªØ§Ø­Ø© Ø¹Ø¨Ø± [ØµÙØ­Ø© Ø§Ù„Ø¨Ø±Ù†Ø§Ù…Ø¬ ÙÙŠ Ø§Ù„ØºØ¯ Ø¯ÙŠØ¬ØªØ§Ù„](https://alghad.digital/programs/download/).
