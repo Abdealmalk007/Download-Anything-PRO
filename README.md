@@ -1,8 +1,15 @@
 # Download Anything PRO — 6.0.17
 
+> **Current license / الترخيص الحالي: All Rights Reserved.**
+> © 2026 Abu Omar / ProTech. Prior written permission is required for use,
+> copying, modification, publication or distribution of current ProTech-owned material.
+> جميع الحقوق محفوظة. يلزم إذن كتابي مسبق للاستخدام أو النسخ أو التعديل أو التوزيع.
+> Third-party licenses and previously distributed MIT copies remain unaffected.
+> See [LICENSE](LICENSE) and [licensing transition](LICENSING_TRANSITION.md).
+
 Developer: **Abu Omar / ProTech**
 Email: **protech.2025.2026@gmail.com**
-License: **MIT for original ProTech-owned code**. Dependencies have their own licenses.
+License: **All Rights Reserved for original ProTech-owned code**. Dependencies have their own licenses.
 
 ## الإصدار
 
@@ -28,8 +35,8 @@ License: **MIT for original ProTech-owned code**. Dependencies have their own li
 نسخ تجارية. استخدم التطبيق لتنزيل المحتوى الذي تملك حق الوصول
 إليه وتنزيله، ولا تتوقع تجاوز DRM أو قيود المنصات.
 
-## Official Project Website / Ø§Ù„Ù…ÙˆÙ‚Ø¹ Ø§Ù„Ø±Ø³Ù…ÙŠ
+## Official Project Website / الموقع الرسمي
 
 For features, product status and official download information, see [the Alghad Digital product page](https://alghad.digital/programs/download/).
 
-Ø§Ù„ØªÙØ§ØµÙŠÙ„ ÙˆØ±ÙˆØ§Ø¨Ø· Ø§Ù„ØªÙ†Ø²ÙŠÙ„ Ø§Ù„Ø±Ø³Ù…ÙŠØ© Ù…ØªØ§Ø­Ø© Ø¹Ø¨Ø± [ØµÙØ­Ø© Ø§Ù„Ø¨Ø±Ù†Ø§Ù…Ø¬ ÙÙŠ Ø§Ù„ØºØ¯ Ø¯ÙŠØ¬ØªØ§Ù„](https://alghad.digital/programs/download/).
+التفاصيل وروابط التنزيل الرسمية: [صفحة البرنامج](https://alghad.digital/programs/download/).
